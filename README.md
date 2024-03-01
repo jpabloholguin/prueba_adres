@@ -5,10 +5,10 @@ Este repositorio contiene los archivos usados y creados a partir de la prueba de
 
 ## Instrucciones de Uso
 1. La carpeta "datos" contiene los dos archivos de excel compartidos
-2. En el jupyter notebook "prueba.ipynb" se encuentra el código implementado para la realización de la prueba
+2. En el archivo "prueba.adres.R" se encuentra el códigoen R implementado para la realización de la prueba
 3. El código implementado se encuentra principalmente en lenguaje R. Algunos apartados se encuentran en SQL dado la conexión con la base de datos SQLite
 4. Se agrega un archivo "prueba_adres.pbix" el cual presenta en Power BI los principales hallazgos de la prueba
-5. El presente repositorio y código aquí contenido fue elaborado en el Entorno Integrado de Desarrollo Microsoft Visual Studio Code
+5. El presente repositorio y código aquí contenido fue elaborado en R sutdio.
 
 
 ## Contribución
